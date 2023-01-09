@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-03T22:46:41 EST" name="Default suite" finished-at="2023-01-03T22:46:57 EST" duration-ms="15484">
+    <groups>
+    </groups>
+    <test started-at="2023-01-03T22:46:41 EST" name="Default test" finished-at="2023-01-03T22:46:57 EST" duration-ms="15484">
+      <class name="sample.Appium_w_InstallationFile">
+        <test-method is-config="true" signature="setup()[pri:0, instance:sample.Appium_w_InstallationFile@2dc54ad4]" started-at="2023-01-03T22:46:41 EST" name="setup" finished-at="2023-01-03T22:46:50 EST" duration-ms="8485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test()[pri:0, instance:sample.Appium_w_InstallationFile@2dc54ad4]" started-at="2023-01-03T22:46:50 EST" name="test" finished-at="2023-01-03T22:46:57 EST" duration-ms="6975" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- sample.Appium_w_InstallationFile -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
